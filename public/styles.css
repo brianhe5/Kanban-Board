@@ -1,0 +1,59 @@
+:root {
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.template, .hidden {
+  display: none;
+}
+input, buttons, textarea {
+  font-size: inherit;
+  /*font-size: 10px;*/
+}
+textarea {
+  font-family: inherit;
+}
+/*removed for project3 */
+/* .moving {
+  border: solid;
+  border-width: 2px;
+  border-color: black;
+} */
+.editDescription {
+  width: 100%;
+  line-height: 1;
+  height: (5*1em);
+}
+p {
+  white-space: pre-wrap;
+}
+.edit, .startMove, .delete {
+  background-color: inherit;
+  border: none;
+}
+.edit:hover, .startMove:hover, .delete:hover {
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+.moveHere {
+  border: none;
+  background: none;
+  color: gray;
+  font-size: small;
+
+}
+.moveHere:hover {
+  cursor: pointer;
+  background-color: #e0e0e0;
+  color:black;
+
+}
+
+
+
+
