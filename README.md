@@ -5,3 +5,4 @@
 - Add a local storage feature to enable data to persist even after the site is refreshed or closed
 - Enabled users to drag and drop a text file on a card which edits the card description to contain the text file contents
 - Create a light and dark mode for the site that users can toggle on click
+<img width="779" alt="image" src="https://github.com/user-attachments/assets/b7da5e7d-1efe-4733-84bc-aa93cd90936e" />
